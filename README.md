@@ -50,7 +50,7 @@
 ## Features
 
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) challenge. The [challenge](https://devchallenges.io/solutions/Yz4zUM9jbxt5uxKhNZTU) was to build an application to complete the responsive layout.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) challenge. The [challenge](https://devchallenges.io/solutions/iGBSVi4zPkmJ6x2FMUsK) was to build an application to complete the responsive layout.
 
 
 ## Contact
